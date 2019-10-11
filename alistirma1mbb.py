@@ -1,4 +1,4 @@
-#komutla y'nin 0 olduğunu belirtiyoruz(y=0)
+y=0
 for x in range(19,205,3):
 	y+=x
 	if x==202:
