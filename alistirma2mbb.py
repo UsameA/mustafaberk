@@ -7,3 +7,4 @@ for i in range(1,10000000):
 pi= math.sqrt(6*sum)
 print(pi)
     
+ueyuwrı
