@@ -1,6 +1,7 @@
+c=0
 for j in range(0,10):
 	for k in range(0,10):
 		for l in range(0,10):
-			for m in range (0,10):
-				if i==m and j==l:
-					print(10000*i+1000*j+100*k+10*l+m)
+			print(10000*j+1000*k+100*l+10*j+k)
+			c=c+1
+print(c)
