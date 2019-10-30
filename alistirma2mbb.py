@@ -8,3 +8,4 @@ pi= math.sqrt(6*sum)
 print(pi)
     
 ueyuwrı
+deneme1
